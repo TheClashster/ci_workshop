@@ -1,7 +1,7 @@
 # Continuous Integration workshop
 
 This repository holds the sample application (written in Python, using the Flask microframework) which can be used
-to demonstrate the purpose of a Continuous Integration pipeline/toolchain.
+to demonstrate the purpose of a Continuous Integration pipeline/toolchain. This version by your clashiness Aadi Bajpai.
 
 A live version (for the time being) can be found here: https://ci-workshop-lyon.herokuapp.com
 
