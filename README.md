@@ -1,3 +1,4 @@
+[![Travis](https://travis-ci.org/travis-ci/travis-web.svg?branch=master)](https://travis-ci.org/TheClashster/ci_workshop)
 # Continuous Integration workshop
 
 This repository holds the sample application (written in Python, using the Flask microframework) which can be used
