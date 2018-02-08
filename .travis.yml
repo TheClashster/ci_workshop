@@ -16,5 +16,6 @@ jobs:
         provider: heroku
         api_key:
           secure: EN0MovWMKrVXZxZ5CYVENFItAGOy7h//9QYvHEpEDt/jbZxtAJwzNKn+RAVj4YaJbE7DXscCmgESYzlNxozsnpiyGvA+N9enxTLQAjAHusYGf8g51ShaUblH4D4N/Nsd/zDDb7U6nntW1XEtZJuCJtPN7A0F7o/qMbKvVds/kbQ9pbYjCapUABqY316Ose5YX0pDpm4JTq2pBV3IBhYeBQw3PWNY5C3f7H4Mqww0uOg51wBj2M9l2GARJg5/blPBVPdtjGivffX9kiUR+hprjNY+RUQa4Okz1EFJj7dJXekcQ1lYVOZXdh9ST6eTWrg6Mywt6tbAv16zL8UrmodIdwQqgYOW9ISO09OLizeMBjX+831jdQozUb8mzQALAdTgc9lxBPv4/TN3Ien2JTpDFqP+B8Dq2jC6EDwNp6BavNxvXd8hzvpOm53R6/haiyVUG+I9KXdnNiGx6gGHV74aWWdTCBLB5aTKOa0ba/F8T+n7w8DWuLFHN34MR7PpsPSqK+Bo68gVwsKEnauRsWRYrxx46MZyPzTSaT/gc6feOMBduJ1r9aLX0E6eatx/xk36DTHrhR1QdD8MqNbbU3l464jGa22wxYeJaWyQVxGN/ffM/knu3I/h3le3B7LOb/4dqn7b1TQnuY+f44TEO/6xGfx3d+xh/NeSx8OuqhzhsXc=        app: ci_workshop
+        app: ci-test-dank
         on:
           repo: TheClashster/ci_workshop
